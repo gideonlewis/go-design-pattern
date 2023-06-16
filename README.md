@@ -1,1 +1,1 @@
-# go-design-pattern
+# Design Patterns in Golang
