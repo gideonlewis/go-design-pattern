@@ -6,8 +6,8 @@ These patterns provide various object creation mechanisms, which increase flexib
 
 <details>
     <summary> Factory Method</summary>
-    <p> Popular: &#9733; &#9733; &#9733; &#9733; &#x2606;</p>
-    <p> Level of difficult: &#9733; &#x2606; &#x2606; &#x2606; &#x2606;</p>
+        <p> Popular: &#9733; &#9733; &#9733; &#9733; &#x2606;</p>
+        <p> Level of difficult: &#9733; &#x2606; &#x2606; &#x2606; &#x2606;</p>
 </details>
 
 <details>
