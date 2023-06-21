@@ -4,7 +4,23 @@ In this repository, you will find examples of popular design patterns such as Si
 <details>
   <summary>Creational Patterns</summary>
   
-  This is the content of the collapsed section.
-  
-  You can add multiple paragraphs, lists, images, etc.
+  <details>
+    <summary>Factory Method</summary>
+  </details>
+
+  <details>
+    <summary>Abstract Factory</summary>
+  </details>
+
+  <details>
+    <summary>Builder</summary>
+  </details>
+
+  <details>
+    <summary>Prototype</summary>
+  </details>
+
+  <details>
+    <summary>Singleton</summary>
+  </details>
 </details>
