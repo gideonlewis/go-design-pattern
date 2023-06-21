@@ -7,10 +7,11 @@ These patterns provide various object creation mechanisms, which increase flexib
 <details>
     <summary> Factory Method</summary>
     <br>
-    Difficult: &#9733; &#9733; &#x2606; &#x2606; &#x2606;
-    Popular: &#9733; &#9733; &#9733; &#x2606; &#x2606;
+    <p>Difficult: &#9733; &#9733; &#x2606; &#x2606; &#x2606;</p>
+    <p>Popular: &#9733; &#9733; &#9733; &#x2606; &#x2606;</p>
     <br>
     Problem: 
+
 [Code Examples](https://github.com/)
 </details>
 
