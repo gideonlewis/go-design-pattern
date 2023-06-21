@@ -5,8 +5,7 @@ In this repository, you will find examples of popular design patterns such as Si
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 <details>
-    <summary>
-        <p> Factory Method</p>
+    <summary>Factory Method
         <p> Level of difficult: &#9733; &#x2606; &#x2606; &#x2606; &#x2606;</p>
         <p> Popular: &#9733; &#9733; &#9733; &#9733; &#x2606;</p>   
     </summary>
