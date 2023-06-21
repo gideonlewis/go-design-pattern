@@ -6,8 +6,8 @@ These patterns provide various object creation mechanisms, which increase flexib
 
 <details>
     <summary> Factory Method</summary>
-        <p> Popular: &#9733; &#9733; &#9733; &#9733; &#x2606;</p>
-        <p> Level of difficult: &#9733; &#x2606; &#x2606; &#x2606; &#x2606;</p>
+    Popular: &#9733; &#9733; &#9733; &#9733; &#x2606;
+    Level of difficult: &#9733; &#x2606; &#x2606; &#x2606; &#x2606;
 </details>
 
 <details>
@@ -26,6 +26,7 @@ These patterns provide various object creation mechanisms, which increase flexib
     <summary> Singleton</summary>
 </details>
 
+[Code Examples](https://github.com/)
 ### Structural Patterns
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
