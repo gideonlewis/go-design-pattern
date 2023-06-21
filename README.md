@@ -1,13 +1,14 @@
 # Design Patterns in Golang
 In this repository, you will find examples of popular design patterns such as Singleton, Factory, Strategy, Decorator, Observer, and many more. Each example comes with a detailed description of how to apply that design pattern in Golang, along with reference materials so that you can better understand them.
 
-### Creational Patterns
+## Creational Patterns
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 <details>
     <summary> Factory Method</summary>
-    Popular: &#9733; &#9733; &#9733; &#9733; &#x2606;
-    Level of difficult: &#9733; &#x2606; &#x2606; &#x2606; &#x2606;
+    <br>
+    <p> Level of difficult: &#9733; &#9733; &#x2606; &#x2606; &#x2606;</p>
+    <p> Popular: &#9733; &#9733; &#9733; &#x2606; &#x2606;</p>
 </details>
 
 <details>
@@ -27,7 +28,7 @@ These patterns provide various object creation mechanisms, which increase flexib
 </details>
 
 [Code Examples](https://github.com/)
-### Structural Patterns
+## Structural Patterns
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 <details>
@@ -58,7 +59,7 @@ These patterns explain how to assemble objects and classes into larger structure
     <summary> Proxy</summary>
 </details>
 
-### Behavioral Patterns
+## Behavioral Patterns
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 <details>
