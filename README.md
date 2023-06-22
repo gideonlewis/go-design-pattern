@@ -5,6 +5,7 @@ In this repository, you will find examples of popular design patterns such as Si
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
 
 <details>
+    <br>
     <summary> Factory Method</summary>
     <b>Intent: </b>Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
     <br>
