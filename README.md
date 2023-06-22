@@ -11,8 +11,7 @@ These patterns provide various object creation mechanisms, which increase flexib
     <blockquote>Popular: &#9733; &#9733; &#9733; &#x2606; &#x2606;</blockquote>
     <p>Difficult: &#9733; &#9733; &#x2606; &#x2606; &#x2606;</p>
     <p>Popular: &#9733; &#9733; &#9733; &#x2606; &#x2606;</p>
-    Problem: 
-    <span><img alt="Golang logo" title="Golang" height="25" /></span>
+    <b>Problem:</b> 
     
 [Code Examples](https://github.com/)
 </details>
