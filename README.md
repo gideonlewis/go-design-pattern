@@ -8,6 +8,7 @@ These patterns provide various object creation mechanisms, which increase flexib
     <summary> Factory Method</summary>
     Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
     <br>
+    `Insert Code`
     >Quoted text
     <p>Difficult: &#9733; &#9733; &#x2606; &#x2606; &#x2606;</p>
     <p>Popular: &#9733; &#9733; &#9733; &#x2606; &#x2606;</p>
